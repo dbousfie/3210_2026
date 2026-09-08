@@ -516,8 +516,8 @@ for all students regardless of option chosen:**
 1.  **Weekly group work (if offered)** does not need to be logged.
 
 > Weekly group work may be available online or in person each week. It
-> must be completed during the week (as tracked by the Microsoft form).
-> Your name must be on the submission for tracking purposes each week.
+> must be completed during the week. Your name must be on the submission
+> for tracking purposes each week.
 
 2.  **Designated attendance weeks (Week 7, 8, 9, 10, 11) -** Attendance
     during Weeks 7,8,9, 10 and 11 will count as one form of
@@ -646,7 +646,8 @@ This will be the schedule:
 ## Course Paths (Options 1,2 and 3)
 
 All students must complete the weekly participation for 15% as discussed
-above.
+above. There is no need for students to declare which options they are
+choosing as the submission of assignments will make that clear.
 
 Option 1 - (students writing an essay and an exam) - all weekly
 submissions are pass/fail for the 15% of the mark.
@@ -755,11 +756,11 @@ movie for its use in understanding Canada‐US relations, as well as base
 arguments in academic research and debates. You should assess the media
 for its arguments about Canada‐US relations, and the viability of the
 arguments given the academic debates on the issue. The assignment should
-be a minimum of 1000 words (maximum of 1500 words), in proper essay
-format (with title page and bibliography) and have a minimum of 4
-academic sources, primarily from course materials. Proper essay
-paragraph structure is required, as is proper in-text citation (see the
-course outline for formatting instructions).
+be a minimum of 1000 words (maximum of 1500 words strictly enforced), in
+proper essay format (with title page and bibliography) and have a
+minimum of 4 academic sources, primarily from course materials. Proper
+essay paragraph structure is required, as is proper in-text citation
+(see the course outline for formatting instructions).
 
 Approved media:
 
@@ -2134,6 +2135,21 @@ A student may appeal a decision on academic consideration made by the
 Dean's Office of the student's Faculty of Registration to the Senate
 Review Board Academic (SRBA) as set out in the Undergraduate Student
 Academic Appeals policy.
+
+**Duplication of work**
+
+Undergraduate students who submit similar assignments on closely related
+topics in two different
+
+courses must obtain the consent of [both]{.underline} instructors prior
+to the submission of the assignment. If prior approval is not obtained,
+each instructor reserves the right not to accept the assignment.
+
+**Grading and grade adjustments**
+
+The Department of Political Science has a policy that undergraduate
+final course grades will only be rounded to the next whole grade if they
+end at 0.5 or higher; otherwise, they will be rounded down.
 
 APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
 SCIENCE
