@@ -1471,6 +1471,11 @@ and unreliability of current generative technology.
 No personal or individual identifiers will ever be included in the
 assessment of material by any generative technology.
 
+Submissions in this course may be examined for AI watermarking using
+anonymized samples processed on campus in accordance with University
+regulations. Watermark detection will not be used to determine
+unauthorized AI use but may indicate such use
+
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 | **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
 | an Allowable   |                                                                                                                          |                                                                                   |
