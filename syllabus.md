@@ -2191,3 +2191,10 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     This is an **open source document** (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others .This document was designed
     by [Dr. Torrey Trust.](http://www.torreytrust.com/)
+
+
+Other notes:
+
+Term assignments due dates are variable based on which assignment is chosen - paired debates can be any time throughout the semester, but written assignments have firm dates
+
+Community engaged learning information is available in brightspace
