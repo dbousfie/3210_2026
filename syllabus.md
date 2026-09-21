@@ -2198,3 +2198,6 @@ Other notes:
 Term assignments due dates are variable based on which assignment is chosen - paired debates can be any time throughout the semester, but written assignments have firm dates
 
 Community engaged learning information is available in brightspace
+
+Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
+Answer: yes there's no restrictions on the number of students that can do the same media
