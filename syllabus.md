@@ -2220,3 +2220,6 @@ Yes you can complete previous weeks work I normally only allow one or two wee
 Let me know if you have any other questions
 Dan
 
+Question: where can I find the syllabus Checker in brightspace?
+Answer: the syllabus Checker that checks your weekly paragraph response structures is available here https://westernu.brightspace.com/d2l/le/lessons/203913/topics/3982364
+
