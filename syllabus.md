@@ -2225,3 +2225,6 @@ Answer: the syllabus Checker that checks your weekly paragraph response structur
 
 Question: can I submit weekly participation after the deadline if the bright space assignment window has closed
 Answer: generally Dan says there is a grace. Of about one week up to two, where participation assessments can be submitted but they must be over email or in the Dropbox. Those assessments will be counted but you're not going to get specific feedback after the submission deadline. They will be assessed at the end of the course alongside all of the other weekly participation.
+
+Question: what did Dan mean when he said you can submit  two 250 word responses after week five?
+Answer: If you haven't started the 250 word responses but you would like to choose that option, you can submit two per week from week five onward. You shouldn't submit more than two at once because you need to get feedback in order to get above the base grade of 70. So submitting two at a time is okay but no more than two. This will allow you to choose one of the options to bypass the essay or the exam, if you haven't been doing it since the beginning of the course.
