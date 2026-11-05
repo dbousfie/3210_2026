@@ -2228,3 +2228,6 @@ Answer: generally Dan says there is a grace. Of about one week up to two, where 
 
 Question: what did Dan mean when he said you can submit  two 250 word responses after week five?
 Answer: If you haven't started the 250 word responses but you would like to choose that option, you can submit two per week from week five onward. You shouldn't submit more than two at once because you need to get feedback in order to get above the base grade of 70. So submitting two at a time is okay but no more than two. This will allow you to choose one of the options to bypass the essay or the exam, if you haven't been doing it since the beginning of the course.
+
+Q: what does it mean if I didn't get a mark but I got feedback on the media assessment or the essay.
+A: the absence of a mark could be an oversight or in most cases it means that because everyone has 1 revise and resubmit on written work, it's more productive to work on the revisions than getting a that would discourage you from working further. It's still fully possible to get high grades if you follow the feedback but if you don't have a grade currently that's because Dan didn't want to be pinned down on something that might end up not being relevant
