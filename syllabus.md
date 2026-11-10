@@ -2231,3 +2231,16 @@ Answer: If you haven't started the 250 word responses but you would like to choo
 
 Q: what does it mean if I didn't get a mark but I got feedback on the media assessment or the essay.
 A: the absence of a mark could be an oversight or in most cases it means that because everyone has 1 revise and resubmit on written work, it's more productive to work on the revisions than getting a that would discourage you from working further. It's still fully possible to get high grades if you follow the feedback but if you don't have a grade currently that's because Dan didn't want to be pinned down on something that might end up not being relevant
+
+Sent November 10th
+Hi all,
+
+Just to clarify a few things.
+
+The peer assessment is available for those who submitted a Week 6 250 word response. There is no reliable way to provide detailed feedback on videos, infographics or hero analyses. If you completed a week 6, 250 word response -&nbsp; the peers' submission is where I normally leave the comments with the heading 'For marking'. Students who are making up missed work, or need to get to 10 weekly reponses can still submit them as normally under the week 7 participation - no attachments. If you need to attach a file you can use the Dropbox tab at the bottom of the Google sheet.
+The 'paired' debate is just a back and forth video, submitted on the week that you designate. It is not in person, and does not need to be done with a partner. It needs to have a clear position (normally Canadian versus American) and does not need to correspond to that week's topic or readings. It is much easier to bypass the written media assessment and do a short video then to give me AI generated writing.&nbsp;
+The media assessments are coming in strong in all the third year classes I teach. I have added&nbsp;a paper queue here. I currently have 50+ in the queue, and we go on a first-in-first-out system. Everyone has until they write their exam (or the end of classes if you are bypassing the exam) to submit your revisions following the revise and resubmit&nbsp;instructions. I have more than usual in the queue which is fine it just may take longer to return them. You must follow those instructions or your resubmission will be rejected. You must track changes and you can't wholesale rewrite the assignment&nbsp;or paragraphs, the tracked changes must be specific, detailed and replying to my comments. If I resubmit a brand new paper to a journal after I get comments on the first version it will be summarily rejected. You have to show specific engagement with the specific comments. If you don't receive a grade on your first draft of the paper that's because it needs substantial work - you may want to consider defecting to the paired debate if that's the case.
+
+Please reach out if you have any questions or concerns,
+
+Dan
