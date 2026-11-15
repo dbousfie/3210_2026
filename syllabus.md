@@ -828,7 +828,7 @@ it next year (i.e. 4-5 double spaced pages).
 Due at the end of **Week 9** (Nov 24, 2026, 11:59 PM).
 
 The final draft of the paper should be 8 pages **(2000 words) in length
-(plus or minus 10% strictly enforced)** (excluding the bibliography) and
+(plus or minus 10% strictly enforced)** (update November 15, 2026 – students who complete the written responses or the written media assessment should aim for a paper of 1500 words in length +/- 10%)(excluding the bibliography) and
 must be presented in proper scholarly format. Students will write an
 essay assignment (A) or policy analysis (B) (based primarily on academic
 sources) on a topic of their choice from the provided list. Essay
